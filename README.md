@@ -11,6 +11,7 @@ This is the official code repository for Code Monks . This simple, light weight 
 ## Important Links
 
 [Kaggle Dataset Used for Plant disease detection](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
+
 [ML model for crop prediction written on Colab](https://colab.research.google.com/drive/17jMLUXK8p6B48CAPW_8DZANxF_CB3jDY?authuser=1)
 
 ## Overview
